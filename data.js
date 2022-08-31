@@ -16,7 +16,7 @@ export const data = [
 	img: "./img/three.png",
 	number: "3",
 	text: 'three',
-	content: "Once upon a time there were two twice in a row, but that happend tree. And three were tripple-named, and trinity was three times as terrific as twix that was once...   Once again for the second time:  Once upon a time there were two twice in a row, but that happend tree. And three were tripple-named, and trinity was three times as terrific as twix that was once... ",
+	content: "Once upon a time there were two twice in a row, but than happend tree. And three were tripple-named, and trinity was three times as terrific as twix that was once...   Once again for the second time:  Once upon a time there were two twice in a row, but that happend tree. And three were tripple-named, and trinity was three times as terrific as twix that was once... ",
 }, {
 	id: "444",
 	img: "./img/four.png",
@@ -28,12 +28,12 @@ export const data = [
 	img: "./img/five.png",
 	number: "5",
 	text: 'five',
-	content: "Once upon a time there were two twice in a row, but that happend tree. And three was followes by four, that together with the one made five.  Five plus five makes ten.  Five by five makes twenty five... Twenty five by twenty five always make it six hundred and twenty five...  What? Five!  One Two Tree Four Five",
+	content: "Once upon a time there were two twice in a row, but than happend tree. And three was followes by four, that together with the one made five.  Five plus five makes ten.  Five by five makes twenty five... Twenty five by twenty five always make it six hundred and twenty five...  What? Five!  One Two Tree Four Five",
 }, {
 	id: "666",
 	img: "./img/six.png",
 	number: "6",
 	text: 'six',
-	content: "Once upon a time there were two twice in a row, but that happend tree. And three plus two plus one make  six, this will be a final mix. Six one six, six two six, six three six, six four six, six five six - thus we came to six six six.",
+	content: "Once upon a time there were two twice in a row, but than happend tree. And three plus two plus one make  six, this will be a final mix. Six one six, six two six, six three six, six four six, six five six - thus we came to six six six.",
 },
 ]
